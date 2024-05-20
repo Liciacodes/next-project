@@ -1,4 +1,4 @@
-import classes from "./meals-grid.modules" .meals {
+.meals {
   width: 90%;
   max-width: 90rem;
   display: grid;
